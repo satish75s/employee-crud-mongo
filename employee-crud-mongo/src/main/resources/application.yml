@@ -1,0 +1,9 @@
+spring:
+  data:
+    mongodb:
+      uri : mongodb+srv://satishsabbella:Password@infycluster.25kth.mongodb.net/?retryWrites=true&w=majority&appName=InfyCluster
+      database : mydatabase
+server:
+  port: 8081
+
+
